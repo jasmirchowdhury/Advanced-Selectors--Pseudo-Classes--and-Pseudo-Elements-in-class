@@ -20,7 +20,7 @@ a:hover{
 }
 /*Cild Selector*/
 ul > li{
-    front-weight:bold;
+    font-weight:bold;
 }
 /*Sibling Selector*/
 h1 + p{
